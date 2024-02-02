@@ -1,3 +1,6 @@
+> [!NOTE]
+> The repository and readme are under development.
+
 <h1 align="center">HTML5 e CSS3: módulo 1 [40 Hours] - Curso em Vídeo</h1>
 <div align="center"><i>A complete list of solved exercises</i><br><br>
 <a href="https://github.com/mateusadada/html5-css3-modulo1-cursoemvideo/stargazers"><img src="https://img.shields.io/github/stars/mateusadada/html5-css3-modulo1-cursoemvideo" alt="Stars Badge"/></a>
