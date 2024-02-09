@@ -38,8 +38,8 @@ Used during the evolution of the website:
 > [!NOTE]
 > It's under development.
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
-* [CSS3](https://en.wikipedia.org/wiki/CSS)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) - The markup language for structuring content on the web.
+* [CSS3](https://en.wikipedia.org/wiki/CSS) - Utilized for enhancing the visual presentation.
 
 ## ✒️ Author
 
