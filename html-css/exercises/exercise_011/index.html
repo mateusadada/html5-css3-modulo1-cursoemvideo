@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Exercise 011</title>
+</head>
+
+<body>
+    <h1>Mídias em HTML5</h1><hr>
+
+    <h2>Imagem dinâmica</h2>
+    <p>Tente abrir este site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+
+    <picture> <!-- Cuidar para não inventer. A ordem é importante -->
+        <source media="(max-width: 750px)" srcset="imagens/photo-s.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/photo-m.png" type="image/png">
+        <img src="imagens/photo-b.png" alt="Imagem flexível grande">
+    </picture>
+</body>
+</html>
