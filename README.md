@@ -20,9 +20,9 @@
 
 ## 🚀 Starting
 
-This repository hosts the codes from the [HTML5 e CSS3: módulo 1 de 5 course](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) instructed by [Curso em Vídeo](https://www.cursoemvideo.com/). This course concludes with the development of my final project – a website devoted to showcasing the cutting-edge technology of [Google Glass](https://www.google.com/glass/start/). Harnessing the power of HTML5 for structuring, CSS3 for styling, and JavaScript for interactivity, the project exemplifies the practical application of these languages in developing a dynamic and engaging web platform.
+This repository hosts the codes from the [HTML5 e CSS3: módulo 1 de 5 course](https://www.cursoemvideo.com/curso/html5-css3-modulo1/) instructed by [Curso em Vídeo](https://www.cursoemvideo.com/). This course was essential for my learning in web development. By exploring the basics of HTML5 and CSS3, I built a solid foundation to expand my skills in this area. I learned to create web page structures using HTML5, understanding the importance of semantics and code organization. I delved into the styling possibilities offered by CSS3, acquiring techniques to customize page design and make it visually appealing.
 
-This project served as my initial introduction to HTML5, CSS3, and JavaScript, playing a fundamental role in broadening my expertise in web development. I gained a comprehensive understanding of these languages, which significantly contributed to my academic pursuits in my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
+I am prepared to take my first steps in creating websites and web applications. I have the necessary tools to develop simple yet functional projects, and I am excited to continue exploring and deepening my knowledge in this vast field. This course not only taught me essential technical skills but also inspired me to keep learning and improving, opening doors to a rewarding career full of opportunities in the technology industry.
 
 ## 📚 Features
 
