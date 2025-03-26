@@ -39,6 +39,10 @@ Used during the evolution of the website:
 - Images.
 - Introduction to CSS.
 
+## 📋 Prerequisites
+
+No software installation on your computer is required; simply access the site directly through your browser. This approach ensures convenience and immediate access to the system's features and information. The site is compatible with modern browsers such as Chrome, Firefox, and Edge, and does not require additional updates or plug-ins for basic functionality.
+
 ## 🛠️ Built with
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) - The language used to structure content on the web.
